@@ -1,11 +1,11 @@
 # Proyecto Final | DSA-BAZ JAVA Bloque 3
 
 El repositorio actual tiene como proposito documentar y guardar un historial de entregas 
-y retro-alimentaciones para este Bloque 2 del bootcamp de `Wizeline Academy`.
+y retro-alimentaciones para este Bloque 3 del bootcamp de `Wizeline Academy`.
 
 ## Organización del repositorio
 
-Cada alumno tendra su propio `directorio/carpeta/espacio de trabajo` dentro del repositorio para subir sus entregables del Bloque 2. 
+Cada alumno tendra su propio `directorio/carpeta/espacio de trabajo` dentro del repositorio para subir sus entregables del Bloque 3. 
 La estructura que se tendra que seguir sera la siguiente:
 ```
 > <Nombre de Alumno> (directorio)
