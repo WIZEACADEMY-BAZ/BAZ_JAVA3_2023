@@ -44,7 +44,7 @@ Cada alumno tendra su propio espacio y dentro de cada directorio, el alumno tend
 ## Revisión y Retro-alimentación
 
 Cada alumno debera generar su propia `branch` por cada Entregable utilizando el siguiente formato para el nombre de la branch 
-`Nombre_Apellido_Entregable#` (e.j. Juan_Perez_Entregable1 o Fernando_Gonzalez_Entregable2), a partir de la rama `master`, y 
+`Nombre_Apellido_Entregable#` (e.j. **Juan_Perez_Entregable1** o **Fernando_Gonzalez_Entregable2**), a partir de la rama `master`, y 
 debera seguir la estructura señalada. 
 
 Una vez que tenga sus entregables listos:
